@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    background-color: #F55A5A;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+ 
+}
+.navbar-logo{
+    color: white;
+    margin-right: 4px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2px;
+}
+.navbar-text{
+
+  
+   
+    font-size: 14.4608px;
+    line-height: 18px;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+
+}
+

@@ -1,0 +1,62 @@
+.body{
+    display: flex;
+    margin-left: 40px;
+    margin-top: 45px;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+body img{
+
+width: 125px;
+height: 168px;
+border-radius: 5px;
+
+}
+.stats{
+    margin-left: 19px;
+    
+}
+
+.stats-location i {
+    color: red;
+}
+.stats-city{
+ 
+font-size: 18px;
+font-weight: 500;
+line-height: 12px;
+margin-left: 4px;
+color: #2B283A;
+}
+
+.stats-map{
+    color:#918E9B;
+    font-size: 13px;
+    font-weight: 500;
+    margin-left: 4px;
+    
+}
+
+.stats-heading{
+    font-size: 25px;
+    margin-top: -25px;
+
+}
+.stats-date {
+    font-size: 17px;
+    color: black;
+    font-weight: 800;
+    margin-top: -20px;
+
+
+}
+
+.stats-des{
+    color:  #2B283A;
+    max-width: 400px;
+    margin-top: 5px;
+
+
+}
